@@ -12,3 +12,6 @@
 | [Similarity_matching_system](https://github.com/JackKuo666/Similarity_matching_system) | 《电商标题数据相似度匹配系统》 | 1.tfidf+词袋模型<br>2.余弦相似度<br>3.word2vec |
 |[a_numpy_based_implement_cnn](https://github.com/JackKuo666/a_numpy_based_implement_cnn)| 《基于numpy的CNN训练与测试代码实现》 | 数据：cifar10<br>卷积层、池化层、激活层、全连接+sotfmax<br>交叉熵<br>反向传播 |
 |[AllenNLP_notes](https://github.com/JackKuo666/AllenNLP_notes)| 学习AllenNLP的笔记 | 1.POS_tagger_官方代码版本<br>2.POS_tagger_官方json版本<br>3.NER_json版<br>4.made_custom_model_CRF_NER+POS |
+|[DaXiGua001](https://github.com/JackKuo666/DaXiGua001)| 合成大西瓜源码 | 1.在线玩：[小游戏：合成大西瓜](https://jackkuo666.github.io/DaXiGua001/index.html) |
+|[Chinese-word-cloud](https://github.com/JackKuo666/Chinese-word-cloud)| Python的Web框架Flask + Vue 生成漂亮的词云 | 1.vue+elementUI前端+flask后端 |
+|[List-of-books](https://github.com/JackKuo666/List-of-books)| Django + vue + mysql 实现书籍列表添加 | 1.vue+elementUI前端+django后端 |
