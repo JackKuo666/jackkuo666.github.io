@@ -1,5 +1,3 @@
-# CV
-
 **Name:** Menghao Guo  
 
 **Email:** [menghao.guo.319@gmail.com](mailto:menghao.guo.319@gmail.com)
