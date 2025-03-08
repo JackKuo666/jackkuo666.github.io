@@ -8,17 +8,17 @@
 
 ### Profile
 
-*   **5 years of AI experience:** Currently a Research Specialist at [Zhejianglab](https://en.zhejianglab.com/).
+- **5 years of AI experience:** Currently a Research Specialist at [Zhejianglab](https://en.zhejianglab.com/).
     
-*   **Expert in NLP, deep learning & LLM applications:** Led projects in text mining, knowledge graph construction, and multi-modal data integration, with a focus on leveraging LLM  agents for drug repurposing and personalized medicine.
+- **Expert in NLP, deep learning & LLM applications:** Led projects in text mining, knowledge graph construction, and multi-modal data integration, with a focus on leveraging LLM  agents for drug repurposing and personalized medicine.
     
-*   **Open-source contributor:** Actively enhanced projects like [AllenNLP](https://github.com/allenai/allennlp/graphs/contributors) and [MindSpore](https://gitee.com/guomenghao319).
+- **Open-source contributor:** Actively enhanced projects like [AllenNLP](https://github.com/allenai/allennlp/graphs/contributors) and [MindSpore](https://gitee.com/guomenghao319).
     
-*   **Biocomputation projects:** Involved in AMP-SEMiner, CRISPR-Cas Systems Discovery, Enzyme Kinetics Data Extraction (Enzyme Co-Scientist), and Chemical Literature Data Mining.
+- **Biocomputation projects:** Involved in AMP-SEMiner, CRISPR-Cas Systems Discovery, Enzyme Kinetics Data Extraction (Enzyme Co-Scientist), and Chemical Literature Data Mining.
     
-*   **Diverse industry background:** Experience at Huawei, Ant Group, Ping An Technology, China Tobacco Zhejiang Industrial, and life sciences research centers.
+- **Diverse industry background:** Experience at Huawei, Ant Group, Ping An Technology, China Tobacco Zhejiang Industrial, and life sciences research centers.
     
-*   **PhD goal:** **Aapplying for a PhD** to further develop innovative, data-driven solutions-integrating LLM agents with **bioinformatics, causal inference, and reinforcement  learning**—to revolutionize drug repurposing and deliver **genotype-tailored therapeutic recommendations**.
+- **PhD goal:** **Aapplying for a PhD** to further develop innovative, data-driven solutions-integrating LLM agents with **bioinformatics, causal inference, and reinforcement  learning**—to revolutionize drug repurposing and deliver **genotype-tailored therapeutic recommendations**.
     
 
 ### Education
