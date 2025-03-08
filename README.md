@@ -10,7 +10,7 @@
 
 *   **5 years of AI experience:** Currently a Research Specialist at [Zhejianglab](https://en.zhejianglab.com/).
     
-*   **Expert in NLP, deep learning & LLM applications:** Led projects in text mining, knowledge graph construction, and multi-modal data integration, with a focus on leveraging LLM agents for drug repurposing and personalized medicine.
+*   **Expert in NLP, deep learning & LLM applications:** Led projects in text mining, knowledge graph construction, and multi-modal data integration, with a focus on leveraging LLM  agents for drug repurposing and personalized medicine.
     
 *   **Open-source contributor:** Actively enhanced projects like [AllenNLP](https://github.com/allenai/allennlp/graphs/contributors) and [MindSpore](https://gitee.com/guomenghao319).
     
@@ -18,7 +18,7 @@
     
 *   **Diverse industry background:** Experience at Huawei, Ant Group, Ping An Technology, China Tobacco Zhejiang Industrial, and life sciences research centers.
     
-*   **PhD goal:** **Aapplying for a PhD** to further develop innovative, data-driven solutions—integrating LLM agents with **bioinformatics, causal inference, and reinforcement learning**—to revolutionize drug repurposing and deliver **genotype-tailored therapeutic recommendations**.
+*   **PhD goal:** **Aapplying for a PhD** to further develop innovative, data-driven solutions-integrating LLM agents with **bioinformatics, causal inference, and reinforcement  learning**—to revolutionize drug repurposing and deliver **genotype-tailored therapeutic recommendations**.
     
 
 ### Education
@@ -52,7 +52,7 @@
 *   **Zhejiang Ant Micro Financial Service Group | NLP Algorithm Engineer (Intern)**  
     _Jun 2019 – Sep 2019_
     
-    *   Developed multi-task learning enhancements within the AllenNLP framework, improving model robustness in dialogue and data extraction tasks.
+    *   Developed multi-task learning enhancements within the AllenNLP framework, improving model robustness in dialogue and data extraction tasks.
         
 *   **Ping An Technology (Shenzhen) Co., Ltd. | NLP Algorithm Engineer (Intern)**  
     _Oct 2018 – Jan 2019_
@@ -62,17 +62,17 @@
 
 ### Research/Project Experiences (Zhejiang Lab)
 
-*   **LLM Literature Extraction:**   Led a project to develop prompt design and model fine-tuning for automatic extraction of key scientific data from literature, enabling scalable biomedical data mining(A scientific paper published).
+*   **LLM Literature Extraction:**   Led a project to develop prompt design and model fine-tuning for automatic extraction of key scientific data from literature, enabling scalable  biomedical data mining(A scientific paper published).
     
-*   **Knowledge Graph Construction:**   Integrated LLM-Agents with knowledge graphs in the KOSA project to fuse multi-source data into complex relational networks (A scientific paper published).
+*   **Knowledge Graph Construction:**   Integrated LLM-Agents with knowledge graphs in the KOSA project to fuse multi-source data into complex relational networks (A scientific paper  published).
     
-*   **Enzyme Kinetics Extraction (Enzyme Co-Scientist):**   As co-first author, developed an LLM-based framework that extracted over 91,000 enzyme kinetics entries from ~3,500 papers with high accuracy (A manuscript is under review).
+*   **Enzyme Kinetics Extraction (Enzyme Co-Scientist):**   As co-first author, developed an LLM-based framework that extracted over 91,000 enzyme kinetics entries from ~3,500 papers  with high accuracy (A manuscript is under review).
     
-*   **AMP-SEMiner:**   Created a framework using Protein Language Models to discover 1.6M antimicrobial peptide candidates by integrating genomics, molecular dynamics, and LLM technology (A manuscript has been preprinted and is under review).
+*   **AMP-SEMiner:**   Created a framework using Protein Language Models to discover 1.6M antimicrobial peptide candidates by integrating genomics, molecular dynamics, and LLM technology (A manuscript has been preprinted and is under review).
     
 *   **SLMP Platform:**   Proposed and implemented an LLM-powered platform for automated literature summarization, keyword extraction, and article analysis(A scientific paper published).
     
-*   **Chemical Literature Mining:**   Contributed to an LLM-Agent system for extracting reaction predictions and molecular properties from chemical literature (A manuscript has been preprinted).
+*   **Chemical Literature Mining:**   Contributed to an LLM-Agent system for extracting reaction  predictions and molecular properties from chemical literature (A manuscript has been preprinted).
     
 *   **CRISPR-Cas Discovery:**   Participated in leveraging foundation models to identify novel Casλ homologs for advancing gene editing research (A scientific paper published).
     
@@ -96,20 +96,20 @@
     
 2.  **Guo, M**, et al. SLMP: A Scientific Literature Management Platform Based on Large Language Models. IEEE _ICKG_ 2024.
     
-3.  Fei Huang, et al., _**Menghao Guo**_, et al., "KOSA: KO enhanced salary analytics based on knowledge graph and LLM capabilities." IEEE _CDMW,_ 2023.
+3.  Fei Huang, et al., _**Menghao Guo**_, et al., "KOSA: KO enhanced salary analytics based on knowledge graph and LLM capabilities." IEEE _CDMW_, 2023.
     
-4.  Jinling Jiang†, Jie Hu†, Siwei Xie†, **Menghao Guo†**, et al. Enzyme Co-Scientist: Harnessing Large Language Models for Enzyme Kinetic Data Extraction from Literature. _Under review at_ _**Nature Computational Science**__._
+4.  Jinling Jiang†, Jie Hu†, Siwei Xie†, **Menghao Guo†**, et al. Enzyme Co-Scientist: Harnessing Large Language Models for Enzyme Kinetic Data Extraction from Literature. Under  review at _**Nature Computational Science**_.
     
-5.  Wenhui LI^†^, Baicheng Huang^†^, _**Menghao Guo**_^†^, et al. "Unveiling the Evolution of Antimicrobial Peptides in Gut Microbes via Foundation Model-Powered Framework". _preprint and under review at_ _**Cell Reports**__._
+5.  Wenhui LI†, Baicheng Huang†, _**Menghao Guo**_†, et al. "Unveiling the Evolution of Antimicrobial Peptides in Gut Microbes via Foundation Model-Powered Framework". preprint and  under review at _**Cell Reports**_.
     
 6.  \[Preprints\] Chen, K., et al., _**Menghao Guo**_, et al. "An Autonomous Large Language Model Agent for Chemical Literature Data Mining." (arXiv)
     
-7.  Li, W., et al., _**Menghao Guo**_, et al."Discovering CRISPR-Cas System with Self-processing Pre-crRNA Capability by Foundation Models." _**Nature Communications 2024**_**.**
+7.  Li, W., et al., _**Menghao Guo**_, et al."Discovering CRISPR-Cas System with Self-processing Pre-crRNA Capability by Foundation Models." _**Nature Communications 2024**_.
     
 8.  \[Master Thesis\] _**Menghao Guo**_. Research on Visual Odometry Algorithm Based on Unsupervised Deep Learning \[D\]. 2020.
     
-_(†Co-first author)_
 
+_(†Co-first author)_
 
 ### Additional Qualifications
 
