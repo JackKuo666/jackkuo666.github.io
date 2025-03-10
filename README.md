@@ -14,7 +14,7 @@
     
 - **Open-source contributor:** Actively enhanced projects like [AllenNLP](https://github.com/allenai/allennlp/graphs/contributors) and [MindSpore](https://gitee.com/guomenghao319).
     
-- **Biocomputation projects:** Involved in AMP-SEMiner, CRISPR-Cas Systems Discovery, Enzyme Kinetics Data Extraction (Enzyme Co-Scientist), and Chemical Literature Data Mining.
+- **Biocomputation projects:** Involved in AMP-SEMiner, CRISPR-Cas Systems Discovery, Enzyme Kinetics Data Extraction (Enzyme Co-Scientist), and Chemical Literature Data Mining.
     
 - **Diverse industry background:** Experience at Huawei, Ant Group, Ping An Technology, China Tobacco Zhejiang Industrial, and life sciences research centers.
     
