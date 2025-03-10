@@ -18,7 +18,7 @@
     
 - **Diverse industry background:** Experience at Huawei, Ant Group, Ping An Technology, China Tobacco Zhejiang Industrial, and life sciences research centers.
     
-- **PhD goal:** **Aapplying for a PhD** to further develop innovative, data-driven solutions-integrating LLM agents with **bioinformatics, causal inference, and reinforcement  learning**—to revolutionize drug repurposing and deliver **genotype-tailored therapeutic recommendations**.
+- **PhD goal:** **Aapplying for a PhD** to further develop innovative, data-driven solutions - integrating LLM agents with **bioinformatics, causal inference, and reinforcement  learning** — to revolutionize drug repurposing and deliver **genotype-tailored therapeutic recommendations**.
     
 
 ### Education
