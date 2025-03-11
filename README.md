@@ -52,12 +52,12 @@
 * **Zhejiang Ant Micro Financial Service Group | NLP Algorithm Engineer (Intern)** 
  _Jun 2019 – Sep 2019_
  
- * Developed multi-task learning enhancements within the AllenNLP framework, improving model robustness in dialogue and data extraction tasks.
+ * Developed multi task learning enhancements within the AllenNLP framework, improving model robustness in dialogue and data extraction tasks.
   
 * **Ping An Technology (Shenzhen) Co., Ltd. | NLP Algorithm Engineer (Intern)** 
  _Oct 2018 – Jan 2019_
  
- * Built an information extraction system for contract review using BERT and rule-based methods, advancing practical applications of NLP in structured data analysis.
+ * Built an information extraction system for contract review using BERT and rule based methods, advancing practical applications of NLP in structured data analysis.
   
 
 ### Research/Project Experiences (Zhejiang Lab)
