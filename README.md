@@ -16,9 +16,9 @@
  
 - **Biocomputation projects:** Involved in AMP-SEMiner, CRISPR-Cas Systems Discovery, Enzyme Kinetics Data Extraction (Enzyme Co-Scientist), and Chemical Literature Data Mining.
  
-- **Diverse industry background:** Experience at Huawei, Ant Group, Ping An Technology, China Tobacco Zhejiang Industrial, and life sciences research centers.
+- **Diverse industry background:** Extensive experience spanning Huawei (2012 Lab), Ant Group, Ping An Technology, China Tobacco Zhejiang Industrial, and the Research Center for Life Sciences Computing of Zhejiang Lab.
  
-- **PhD goal:** **Aapplying for a PhD** to further develop innovative, data-driven solutions - integrating LLM agents with **bioinformatics, causal inference, and reinforcement learning** to revolutionize drug repurposing and deliver **genotype-tailored therapeutic recommendations**.
+- **PhD goal:** I am currently **seeking a PhD position** to expand my research on AI applications in life sciences, with a focus on developing data-driven solutions - integrating LLM agents with bioinformatics, causal inference, and reinforcement learning to advance precision medicine, enable drug repurposing, and optimize therapeutic strategies while delivering genotype-tailored recommendations.
  
 
 ### Education
