@@ -91,7 +91,7 @@
  
 2. **Menghao Guo**, et al. SLMP: A Scientific Literature Management Platform Based on Large Language Models. IEEE _ICKG_ 2024.
  
-3. Fei Huang, et al., _**Menghao Guo**_, et al., "KOSA: KO enhanced salary analytics based on knowledge graph and LLM capabilities." IEEE _CDMW_, 2023.
+3. Fei Huang, et al., _**Menghao Guo**_, et al., "KOSA: KO enhanced salary analytics based on knowledge graph and LLM capabilities." IEEE _ICDMW_, 2023.
  
 4. Jinling Jiang†, Jie Hu†, Siwei Xie†, **Menghao Guo†**, et al. Enzyme Co-Scientist: Harnessing Large Language Models for Enzyme Kinetic Data Extraction from Literature. Under review at _**Nature Computational Science**_.
  
