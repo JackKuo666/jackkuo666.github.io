@@ -61,7 +61,7 @@
  
 * **Knowledge Graph Construction:** Integrated LLM-Agents with knowledge graphs in the KOSA project to fuse multi-source data into complex relational networks (A scientific paper published).
  
-* **Enzyme Kinetics Extraction (Enzyme Co-Scientist):** As co-first author, developed an LLM-based framework that extracted over 91,000 enzyme kinetics entries from ~3,500 papers with high accuracy (A manuscript is under review).
+* **Enzyme Kinetics Extraction (Enzyme Co-Scientist):** As co-first author, developed an LLM-based framework that extracted over 91,000 enzyme kinetics entries from ~3,500 papers with high accuracy (A manuscript has been preprinted and is under review).
  
 * **AMP-SEMiner:** As co-first author, created a framework using Protein Language Models to discover 1.6 million antimicrobial peptide candidates by integrating genomics, molecular dynamics, and LLM technology (A manuscript has been preprinted and is under review).
  
@@ -93,7 +93,7 @@
  
 3. Fei Huang, et al., _**Menghao Guo**_, et al., "KOSA: KO enhanced salary analytics based on knowledge graph and LLM capabilities." IEEE _ICDMW_, 2023.
  
-4. Jinling Jiang†, Jie Hu†, Siwei Xie†, **Menghao Guo†**, et al. Enzyme Co-Scientist: Harnessing Large Language Models for Enzyme Kinetic Data Extraction from Literature. Under review at _**Nature Computational Science**_.
+4. Jinling Jiang†, Jie Hu†, Siwei Xie†, **Menghao Guo†**, et al. Enzyme Co-Scientist: Harnessing Large Language Models for Enzyme Kinetic Data Extraction from Literature. preprint and under review at _**Nature Computational Science**_.
  
 5. Wenhui LI†, Baicheng Huang†, _**Menghao Guo**_†, et al. "Unveiling the Evolution of Antimicrobial Peptides in Gut Microbes via Foundation Model-Powered Framework". preprint and under review at _**Cell Reports**_.
  
