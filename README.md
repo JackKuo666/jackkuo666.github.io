@@ -10,15 +10,15 @@
 
 - **Five years of AI experience:** Currently a Research Specialist at [Zhejiang Lab](https://en.zhejianglab.com/).
  
-- **Expert in NLP, deep learning, and LLM applications:** Led projects in text mining, knowledge graph construction, and multi-modal data integration, with a focus on leveraging LLM agents for drug repurposing and personalized medicine.
- 
+- **Expert in NLP, deep learning, and LLM applications:** Led projects in text mining, knowledge graph construction, and multi-modal data integration, with a focus on leveraging LLM agents and AI for `​life sciences`, including `biocomputing, bioinformatics, and computational biology`. Specialized in: `​Protein and genome foundation models`, `​Multi-agent systems for life sciences data mining`, `​Bioinformatics analysis and database construction`, `​Drug repurposing`, and `​Genomics-based personalized medicine`.
+
 - **Open-source contributor:** Actively contributed to open-source projects such as [AllenNLP](https://github.com/allenai/allennlp/graphs/contributors) and [MindSpore](https://gitee.com/guomenghao319) by enhancing model performance and functionality.
  
-- **Biocomputation projects:** Involved in `AMP-SEMiner`, `CRISPR-Cas Systems Discovery`, Enzyme Kinetics Data Extraction (`Enzyme Co-Scientist`), and LLM Agent-based Chemical Literature Data Mining.
+- **Biocomputation projects:** Involved in `AMP-SEMiner`, `CRISPR-Cas Systems Discovery`, Enzyme Kinetics Data Extraction (`Enzyme Co-Scientist`), and `LLM Agent-based Chemical Literature Data Mining`.
  
 - **Diverse industry background:** Extensive experience across Huawei (2012 Lab), Ant Group, Ping An Technology, China Tobacco Zhejiang Industrial, and the Research Center for Life Sciences Computing of Zhejiang Lab.
  
-- **PhD goal:** I am currently **seeking a PhD position** to expand my research on AI applications in life sciences, with a focus on developing data-driven solutions - integrating LLM agents with bioinformatics, causal inference, and reinforcement learning to advance precision medicine, enable drug repurposing, and optimize therapeutic strategies while delivering genotype-tailored recommendations.
+- **PhD goal:** I am currently **seeking a PhD position** to expand my research on AI applications in life sciences, with a focus on developing `data-driven solutions` - integrating LLM agents with bioinformatics, causal inference, and reinforcement learning to advance precision medicine, enable drug repurposing, and optimize therapeutic strategies while delivering genotype-tailored recommendations.
  
 
 ### Education
