@@ -87,21 +87,21 @@
 
 ### Publications and Manuscripts
 
-1. **Menghao Guo**, et al. "Investigations on scientific literature meta information extraction using large language models." IEEE _ICKG_ 2023.
+1. **Menghao Guo**, et al. "Investigations on scientific literature meta information extraction using large language models." _IEEE ICKG 2023_.
  
-2. **Menghao Guo**, et al. SLMP: A Scientific Literature Management Platform Based on Large Language Models. IEEE _ICKG_ 2024.
+2. **Menghao Guo**, et al. SLMP: A Scientific Literature Management Platform Based on Large Language Models. _IEEE ICKG 2024_.
  
-3. Fei Huang, et al., _**Menghao Guo**_, et al., "KOSA: KO enhanced salary analytics based on knowledge graph and LLM capabilities." IEEE _ICDMW_, 2023.
+3. Fei Huang, et al., _**Menghao Guo**_, et al., "KOSA: KO enhanced salary analytics based on knowledge graph and LLM capabilities." _IEEE ICDMW 2023_.
  
-4. Jinling Jiang†, Jie Hu†, Siwei Xie†, **Menghao Guo†**, et al. Enzyme Co-Scientist: Harnessing Large Language Models for Enzyme Kinetic Data Extraction from Literature. preprint and under review at _**Nature Computational Science**_.
+4. Li, W., et al., _**Menghao Guo**_, et al."Discovering CRISPR-Cas System with Self-processing Pre-crRNA Capability by Foundation Models." _**Nature Communications (2024)**_.
+
+5. _\[Preprints\]_ Wenhui LI†, Baicheng Huang†, _**Menghao Guo**_†, et al. "Unveiling the Evolution of Antimicrobial Peptides in Gut Microbes via Foundation Model-Powered Framework". _preprint and under review at **Cell Reports**_.
  
-5. Wenhui LI†, Baicheng Huang†, _**Menghao Guo**_†, et al. "Unveiling the Evolution of Antimicrobial Peptides in Gut Microbes via Foundation Model-Powered Framework". preprint and under review at _**Cell Reports**_.
+6. _\[Preprints\]_ Jinling Jiang†, Jie Hu†, Siwei Xie†, **Menghao Guo†**, et al. Enzyme Co-Scientist: Harnessing Large Language Models for Enzyme Kinetic Data Extraction from Literature. _preprint and under review at **Nature Computational Science**_.
  
-6. \[Preprints\] Chen, K., et al., _**Menghao Guo**_, et al. "An Autonomous Large Language Model Agent for Chemical Literature Data Mining." (arXiv)
+7. _\[Preprints\]_ Chen, K., et al., _**Menghao Guo**_, et al. "An Autonomous Large Language Model Agent for Chemical Literature Data Mining." _(arXiv)_
  
-7. Li, W., et al., _**Menghao Guo**_, et al."Discovering CRISPR-Cas System with Self-processing Pre-crRNA Capability by Foundation Models." _**Nature Communications (2024)**_.
- 
-8. \[Master Thesis\] _**Menghao Guo**_. Research on Visual Odometry Algorithm Based on Unsupervised Deep Learning \[D\]. 2020.
+8. _\[Master Thesis\]_ _**Menghao Guo**_. Research on Visual Odometry Algorithm Based on Unsupervised Deep Learning \[D\]. 2020.
  
 
 _(†Co-first author)_
